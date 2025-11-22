@@ -1,8 +1,8 @@
-# Hi, I’m Pratham! 👋
+# Hi, I’m Pratham! 
 
 **Final Year Engineering Student | Aspiring Software Developer & AI Enthusiast**
 
-🚀 *Passionate about building AI-driven solutions that solve real-world problems. Always learning, always innovating.*
+*Passionate about building AI-driven solutions that solve real-world problems. Always learning, always innovating.*
 
 ---
 
